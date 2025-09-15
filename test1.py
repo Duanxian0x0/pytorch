@@ -7,5 +7,3 @@ if __name__ == "__main__":
     check_cuda()
 
 
-# ❯ /home/duanxian0x0/.conda/envs/myenv/bin/python /home/duanxian0x0/桌面/github/test1.py
-# cuda可用性False
